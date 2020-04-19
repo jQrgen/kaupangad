@@ -1,2 +1,2 @@
 # kaupangad
-ad
+asd
